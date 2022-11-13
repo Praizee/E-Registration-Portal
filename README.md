@@ -1,2 +1,2 @@
-# E-Registration-Portal
+# E-Registration Portal
 University E-Registration Portal
